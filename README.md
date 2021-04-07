@@ -2,4 +2,4 @@
 
 ### 247 App Overview and Goals
 
-[![GitHub]https://github.com/KChakhalyan
+[![GitHub](https://github.com/KChakhalyan)
