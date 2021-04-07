@@ -2,4 +2,4 @@
 
 ### 247 App Overview and Goals
 
-[![GitHub](https://github.com/KChakhalyan)
+[![GitHub](https://img.shields.io/badge/github-wiki-lightgrey?style=flat-square)](https://github.com/Tautulli/Tautulli-Remote/wiki)
